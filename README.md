@@ -11,7 +11,6 @@ This project is a simple RAG-based chatbot application designed to collect and t
 
 ```bash
 git https://github.com/anasmalik081/Complaint-Chatbot.git
-cd rag-complaint-chatbot
 ```
 
 ### 2. Create and Activate a Virtual Environment
