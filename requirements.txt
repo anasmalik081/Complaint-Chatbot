@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic[email]
+langchain
+langchain-google-genai
+faiss-cpu
+tiktoken
+python-dotenv
+sentence-transformers
+langchain-community
+pypdf
+streamlit
